@@ -1,0 +1,1 @@
+vless://6248fac8-79b6-4e00-b928-6543f1534e63@dotist.xyz:12580?encryption=none&security=tls&type=ws&host=dotist.xyz&path=%2Fd6284b33#dotist.xyz%2BWebSocket_tls
